@@ -1,0 +1,6 @@
+--2026-01-16 21:08:40--  http://localhost:8888/dynamic/small00.dat
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8888... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2048 (2.0K)
+Saving to: ‘small00.dat’
